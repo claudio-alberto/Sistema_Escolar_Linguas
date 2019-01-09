@@ -25,7 +25,7 @@ SECRET_KEY = '4a3@4s+d*&+(84##9v55g6twij3+)0_9+715xu31dgnyh^*^hj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonwhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'wings2019.pythonwhere.com']
 
 
 # Application definition
